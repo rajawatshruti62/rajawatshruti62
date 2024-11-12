@@ -1,5 +1,19 @@
-# 💫 About Me:
-# 🔭 What I'm working on:<br>- **IoT Projects:** Connecting the world in smarter ways<br>- **Machine Learning Models:** Turning data into insights<br>- **Web Development:** Building full-stack applications<br>- **DevOps:** Streamlining development and deployment processes<br><br>### 🌱 What I'm learning:<br>- Advanced IoT protocols and hardware<br>- Cutting-edge Machine Learning algorithms<br>- In-depth Data Structures and Algorithms<br><br>### 💬 Let's connect:<br>- [LinkedIn](https://www.linkedin.com/in/shruti-singh-b90116229/)<br>- [LeetCode](https://leetcode.com/u/shrutisinghrajawat104/)<br><br>### 📫 How to reach me:<br>- Email: [shrutisinghrajawat104@gmail.com](mailto:shrutisinghrajawat104@gmail.com)<br><br>### ⚡ Fun fact:<br>I love tinkering with gadgets and turning ideas into reality!<br><br>Check out my [GitHub](https://github.com/rajawatshruti62) for projects and explorations in IoT, ML, Data Structures,MAchine Learning!<br>
+### 💫 About Me:
+
+**🔭 What I'm working on:**
+
+- **IoT Projects:** ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴛʜᴇ ᴡᴏʀʟᴅ ɪɴ sᴍᴀʀᴛᴇʀ ᴡᴀʏs  
+- **Machine Learning Models:** ᴛᴜʀɴɪɴɢ ᴅᴀᴛᴀ ɪɴᴛᴏ ɪɴsɪɢʜᴛs  
+- **Web Development:** ʙᴜɪʟᴅɪɴɢ ꜰᴜʟʟ-sᴛᴀᴄᴋ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs  
+- **DevOps:** sᴛʀᴇᴀᴍʟɪɴɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴘʀᴏᴄᴇssᴇs  
+
+---
+
+**🌱 What I'm learning:**
+
+- ᴀᴅᴠᴀɴᴄᴇᴅ ɪᴏᴛ ᴘʀᴏᴛᴏᴄᴏʟs ᴀɴᴅ ʜᴀʀᴅᴡᴀʀᴇ  
+- ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀʟɢᴏʀɪᴛʜᴍs  
+- ɪɴ-ᴅᴇᴘᴛʜ ᴅᴀᴛᴀ sᴛʀᴜᴄᴛᴜʀᴇs ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍs  <br><br>### 💬 Let's connect:<br>- [LinkedIn](https://www.linkedin.com/in/shruti-singh-b90116229/)<br>- [LeetCode](https://leetcode.com/u/shrutisinghrajawat104/)<br><br>### 📫 How to reach me:<br>- Email: [shrutisinghrajawat104@gmail.com](mailto:shrutisinghrajawat104@gmail.com)<br><br>### ⚡ Fun fact:<br>I love tinkering with gadgets and turning ideas into reality!<br><br>Check out my [GitHub](https://github.com/rajawatshruti62) for projects and explorations in IoT, ML, Data Structures,MAchine Learning!<br>
 
 
 #🌐 Socials:
